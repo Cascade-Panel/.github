@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Description" style="width:100%;height:auto;">
+<img src="https://github.com/Cascade-Panel/.github/blob/main/profile%2Fbanner.png" alt="Description" style="width:100%;height:auto;">
 
 Welcome to the **Cascade Organization**! We are dedicated to creating and maintaining powerful tools for managing and orchestrating containerized and virtualized environments. Our flagship projects include the Cascade Panel and Cascade CLI, designed to provide users with comprehensive solutions for managing their infrastructure.
 
